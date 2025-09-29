@@ -1,0 +1,17 @@
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\DnDAlignmentVisualization.exe.config
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\DnDAlignmentVisualization.exe
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\DnDAlignmentVisualization.pdb
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\SFML.Audio.dll
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\SFML.Graphics.dll
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\SFML.System.dll
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\SFML.Window.dll
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\SFML.Audio.xml
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\SFML.Graphics.xml
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\SFML.System.xml
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\bin\x64\Debug\SFML.Window.xml
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\obj\x64\Debug\DnDAlignmentVisualization.csproj.AssemblyReference.cache
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\obj\x64\Debug\DnDAlignmentVisualization.csproj.CoreCompileInputs.cache
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\obj\x64\Debug\DnDAlign.9CDD0079.Up2Date
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\obj\x64\Debug\DnDAlignmentVisualization.exe
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\obj\x64\Debug\DnDAlignmentVisualization.pdb
+C:\Users\79278\Desktop\Ranepa\SSPiP\DnDAlignmentVisualization\obj\x64\Debug\DnDAlignmentVisualization.exe.config
